@@ -8,7 +8,8 @@ var config = {
         "We do have disagreements", //
         "But by God's grace,",
         "We always found a way to move on",
-        "You are a special person",
+        "I would like to tell you something",
+        "You're special",
         "You have innumerous values",
         "That an entire textbook can't contain",
         "I pray God to guide us to His path",
@@ -29,7 +30,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "Ruby!": "./imgs/awah.png",
+        "You're special": "./imgs/awah.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
