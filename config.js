@@ -7,7 +7,7 @@ var config = {
         "Sure, I haven't been the best",  // 同上...
         "We do have disagreements", //
         "But by God's grace,",
-        "We always found a way to move on",
+        "We always find a way to move on",
         "I would like to tell you something",
         "You're special",
         "You have innumerous values",
