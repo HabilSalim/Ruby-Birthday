@@ -5,12 +5,12 @@ var config = {
     texts: [
          "Ruby!",    
         "Sure, I haven't been the best",  // 同上...
-        "We do have some quarrels and disputes", //
+        "We do have some disagreements", //
         "But by God's grace,",
         "We always found a way to move on",
-        "You are a special person (at least to me)",
+        "You are a special person",
         "You have innumerous values",
-        "That even an entire textbook can't contain",
+        "That an entire textbook can't contain",
         "I pray God to guide us to His path",
         "And to make this journey of ours",
         "To be the best",
@@ -29,7 +29,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/awah.png",
+        "Sure, I haven't been the best": "./imgs/awah.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
