@@ -4,13 +4,16 @@ var config = {
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
          "Ruby!",    
-        "Sure, I haven't been the best classmate ever",  // 同上...
+        "Sure, I haven't been the best",  // 同上...
         "We do have some quarrels and disputes", //
-        "But by God's grace, we always found a way to move on",
+        "But by God's grace,",
+        "We always found a way to move on",
         "You are a special person (at least to me)",
-        "Your values are so many that if I start mentioning them we might use an entire textbook",
-        "I pray God the almighty to guide us to his path",
-        "And to make this journey of ours to be the best or one of the best",
+        "You have innumerous values",
+        "That even an entire textbook can't contain",
+        "I pray God to guide us to His path",
+        "And to make this journey of ours",
+        "To be the best",
         "From the debt of my heart,",
         "Happy birthday!",
         "From Your Brother",
@@ -26,7 +29,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        "心爱的小可爱": "./imgs/awah.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
