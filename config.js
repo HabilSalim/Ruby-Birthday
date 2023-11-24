@@ -15,7 +15,7 @@ var config = {
         "I pray God to guide us to His path",
         "And to make this journey of ours",
         "To be the best",
-        "From the debt of my heart,",
+        "From the depth of my heart,",
         "Happy birthday!",
         "From Your Brother",
         "Ngoupayou Habil Salim~~",
